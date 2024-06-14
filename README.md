@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tako0825
+- 👀 I’m interested in JavaScript.
+- 🌱 I’m currently learning React.
+- 📫 How to reach me：2060364922@qq.com
